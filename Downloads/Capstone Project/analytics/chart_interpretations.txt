@@ -1,9 +1,0 @@
-Figure 1: The age distribution is approximately unimodal and centered in the 20s to 40s; a large share of passengers were adult travellers, which makes age a useful predictor of risk because children and older adults were commonly prioritized in rescue patterns.
-
-Figure 2: Fare is highly right-skewed, with a long tail toward expensive cabins; this indicates wealth and cabin class were strongly tied to survival prospects, even though most passengers paid relatively low fares.
-
-Figure 3: Survival rates are notably higher for women and for first-class passengers, and the combined sex-by-class group shows the strongest survival advantages for women in first class, reinforcing the social and class-based differential seen in the disaster.
-
-Figure 4: The age-by-survival box plots show that survivors were slightly younger on average than non-survivors, while the fare-vs-age scatter shows that higher-ticket passengers clustered in the upper fare range and were more likely to survive.
-
-Figure 5: The correlation heatmap shows the strongest relationships are passenger class and fare, and the sibling/spouse versus parent/child counts; as expected, family-related variables move together and class strongly tracks travel cost.
